@@ -1,6 +1,11 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+
+@theme {
+  --color-ps-yellow: #F4D03F;
+  --color-ps-black: #1A1A1A;
+  --color-ps-gray: #4A4A4A;
+  --font-family-heading: system-ui, -apple-system, sans-serif;
+}
 
 @layer base {
   body {
