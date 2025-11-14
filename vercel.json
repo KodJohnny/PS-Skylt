@@ -1,7 +1,0 @@
-{
-  "$schema": "https://openapi.vercel.sh/vercel.json",
-  "framework": "nextjs",
-  "outputDirectory": "ps-skylt-web/.next",
-  "installCommand": "npm install --prefix ps-skylt-web",
-  "buildCommand": "npm run build --prefix ps-skylt-web"
-}
