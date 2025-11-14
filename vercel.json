@@ -1,0 +1,7 @@
+{
+  "buildCommand": "cd ps-skylt-web && npm run build",
+  "devCommand": "cd ps-skylt-web && npm run dev",
+  "installCommand": "cd ps-skylt-web && npm install",
+  "framework": "nextjs",
+  "outputDirectory": "ps-skylt-web/.next"
+}
